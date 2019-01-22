@@ -1,7 +1,6 @@
 # calculator-lex_bison
 
-Alicja Gratkowska
-Weronika Kowalska
+Alicja Gratkowska, Weronika Kowalska
 
 Interpreter napisany w jezyku Bison oraz Lex z wykorzystaniem jezyka c++.
 
